@@ -1,0 +1,28 @@
+body {
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*intestazione*/
+header, main{
+    background-color: white; 
+}
+
+#title{
+    display: inline;
+    vertical-align:middle;
+    font-size: 36px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#logo-boolean{
+    vertical-align: middle;
+    padding: 10px 10px;
+}
+
+/*main*/
+main{
+
+}
